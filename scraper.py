@@ -17,45 +17,25 @@ def get_articles():
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    articles = []
+    print("PAGE TITLE:")
+    print(soup.title)
 
-    # Look through all links on the author page
+    print("\nFIRST 20 LINKS FOUND:")
+    count = 0
+
     for link in soup.find_all("a", href=True):
-        url = link["href"]
         title = link.get_text(strip=True)
+        url = link["href"]
 
-        # Only collect actual article links
-        if (
-            "talentrecap.com" in url
-            and title
-            and "/author/" not in url
-            and url.rstrip("/") != AUTHOR_URL.rstrip("/")
-        ):
-            articles.append(
-                {
-                    "title": title,
-                    "link": url,
-                    "description": f"Article by Corey Cesare: {title}",
-                    "date": ""
-                }
-            )
+        if title:
+            print(title, "→", url)
+            count += 1
 
-    # Remove duplicates
-    unique_articles = []
-    seen = set()
+        if count >= 20:
+            break
 
-    for article in articles:
-        if article["link"] not in seen:
-            seen.add(article["link"])
-            unique_articles.append(article)
-
-    return unique_articles[:10]
+    return []
 
 
 if __name__ == "__main__":
-    articles = get_articles()
-
-    print(f"Found {len(articles)} articles")
-
-    for article in articles:
-        print(article)
+    get_articles()
