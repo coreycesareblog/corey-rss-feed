@@ -19,29 +19,43 @@ def get_articles():
 
     articles = []
 
-    # WordPress article cards usually use article tags
-    for post in soup.find_all("article"):
+    # Look through all links on the author page
+    for link in soup.find_all("a", href=True):
+        url = link["href"]
+        title = link.get_text(strip=True)
 
-        title_tag = post.find("h2") or post.find("h3")
-        link_tag = post.find("a")
+        # Only collect actual article links
+        if (
+            "talentrecap.com" in url
+            and title
+            and "/author/" not in url
+            and url.rstrip("/") != AUTHOR_URL.rstrip("/")
+        ):
+            articles.append(
+                {
+                    "title": title,
+                    "link": url,
+                    "description": f"Article by Corey Cesare: {title}",
+                    "date": ""
+                }
+            )
 
-        if title_tag and link_tag:
-            title = title_tag.get_text(strip=True)
-            link = link_tag.get("href")
+    # Remove duplicates
+    unique_articles = []
+    seen = set()
 
-            if link:
-                articles.append(
-                    {
-                        "title": title,
-                        "link": link,
-                        "description": f"Article by Corey Cesare: {title}",
-                        "date": ""
-                    }
-                )
+    for article in articles:
+        if article["link"] not in seen:
+            seen.add(article["link"])
+            unique_articles.append(article)
 
-    return articles
+    return unique_articles[:10]
 
 
 if __name__ == "__main__":
-    for article in get_articles():
+    articles = get_articles()
+
+    print(f"Found {len(articles)} articles")
+
+    for article in articles:
         print(article)
