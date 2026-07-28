@@ -1,15 +1,18 @@
 import requests
+from html import unescape
 
 
-SEARCH_URL = "https://talentrecap.com/wp-json/wp/v2/search"
+POSTS_URL = "https://talentrecap.com/wp-json/wp/v2/posts"
 
 
 def get_articles():
     response = requests.get(
-        SEARCH_URL,
+        POSTS_URL,
         params={
-            "search": "Corey Cesare",
-            "per_page": 10
+            "author": 55,
+            "per_page": 10,
+            "orderby": "date",
+            "order": "desc"
         }
     )
 
@@ -20,16 +23,16 @@ def get_articles():
     articles = []
 
     for post in posts:
-        if post.get("subtype") == "post":
-
-            articles.append(
-                {
-                    "title": post["title"],
-                    "link": post["url"],
-                    "description": f"Article by Corey Cesare: {post['title']}",
-                    "date": ""
-                }
-            )
+        articles.append(
+            {
+                "title": unescape(post["title"]["rendered"]),
+                "link": post["link"],
+                "description": unescape(
+                    post["excerpt"]["rendered"]
+                ),
+                "date": post["date"]
+            }
+        )
 
     print(f"Found {len(articles)} articles")
 
