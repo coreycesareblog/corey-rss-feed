@@ -31,7 +31,7 @@
 <script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://talentrecap.com/#organization","name":"THE RECAP GROUP","url":"https://talentrecap.com","sameAs":["https://www.facebook.com/talentrecap/","https://twitter.com/TalentRecap","https://www.instagram.com/talentrecap/","https://www.linkedin.com/company/talentrecap/","https://www.pinterest.com/talentrecap/","https://www.youtube.com/channel/UCSWwb_YyNB8vuC1VDcfPPaQ"],"logo":{"@type":"ImageObject","@id":"https://talentrecap.com/#logo","url":"https://talentrecap.com/wp-content/uploads/2023/06/talent-recap-logo-600x350-white-bg.png","contentUrl":"https://talentrecap.com/wp-content/uploads/2023/06/talent-recap-logo-600x350-white-bg.png","caption":"TALENT RECAP","inLanguage":"en-US","width":"600","height":"350"}},{"@type":"WebSite","@id":"https://talentrecap.com/#website","url":"https://talentrecap.com","name":"TALENT RECAP","alternateName":"TR","publisher":{"@id":"https://talentrecap.com/#organization"},"inLanguage":"en-US"},{"@type":"ProfilePage","@id":"https://talentrecap.com/author/corey-cesare/#webpage","url":"https://talentrecap.com/author/corey-cesare/","name":"Corey Cesare, Author at Talent Recap","isPartOf":{"@id":"https://talentrecap.com/#website"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://talentrecap.com/author/corey-cesare/","name":"Corey Cesare","url":"https://talentrecap.com/author/corey-cesare/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/a954c923b23f374c814bd611a8e41c1820af2866f3258c389a31298b5cf3da75?s=96&amp;r=g","url":"https://secure.gravatar.com/avatar/a954c923b23f374c814bd611a8e41c1820af2866f3258c389a31298b5cf3da75?s=96&amp;r=g","caption":"Corey Cesare","inLanguage":"en-US"},"sameAs":["https://ccesare803144783.wordpress.com/","https://www.linkedin.com/in/corey-cesare-245bb9154/"],"worksFor":{"@id":"https://talentrecap.com/#organization"},"mainEntityOfPage":{"@id":"https://talentrecap.com/author/corey-cesare/#webpage"}}]}</script>
 <!-- /Rank Math WordPress SEO plugin -->
 
-<link rel="alternate" type="application/rss+xml" title="Talent Recap &raquo; Posts by Corey Cesare Feed" href="https://talentrecap.com/author/corey-cesare/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Talent Recap » Posts by Corey Cesare Feed" href="https://talentrecap.com/author/corey-cesare/feed/" />
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6181062392689634" crossorigin="anonymous"></script>
   <style>
     .tr-ad { position: relative; }
@@ -69,7 +69,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 <link rel='stylesheet' id='wp-block-library-css' href='https://cdn.talentrecap.com/wp-includes/css/dist/block-library/style.min.css?ver=6.9.5' type='text/css' media='all' />
 <style id='wp-block-library-inline-css' type='text/css'>
-/*wp_block_styles_on_demand_placeholder:6a6940779b7d4*/
+/*wp_block_styles_on_demand_placeholder:6a6941bbcf832*/
 /*# sourceURL=wp-block-library-inline-css */
 </style>
 <style id='classic-theme-styles-inline-css' type='text/css'>
@@ -83,7 +83,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='theme-tailwind-css-css' href='https://cdn.talentrecap.com/wp-content/themes/talentrecap/assets/css/tailwind.css?ver=1.0.8' type='text/css' media='all' />
 <link rel='stylesheet' id='moove_gdpr_frontend-css' href='https://cdn.talentrecap.com/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main.css?ver=5.0.14' type='text/css' media='all' />
 <style id='moove_gdpr_frontend-inline-css' type='text/css'>
-#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:&#039;Nunito&#039;,sans-serif}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#ff186b}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green{background-color:#ff186b;border-color:#ff186b}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover{background-color:#fff;color:#ff186b}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#ff186b;border:1px solid #ff186b}#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar span.change-settings-button:focus,#moove_gdpr_cookie_info_bar button.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar button.change-settings-button:focus{-webkit-box-shadow:0 0 1px 3px #ff186b;-moz-box-shadow:0 0 1px 3px #ff186b;box-shadow:0 0 1px 3px #ff186b}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#ff186b}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,span.change-settings-button:focus,button.change-settings-button.focus-g,button.change-settings-button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:focus{color:#ff186b}#moove_gdpr_cookie_modal .moove-gdpr-branding.focus-g span,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main a.focus-g,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .gdpr-cd-details-toggle.focus-g{color:#ff186b}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}
+#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:'Nunito',sans-serif}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#ff186b}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green{background-color:#ff186b;border-color:#ff186b}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover{background-color:#fff;color:#ff186b}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#ff186b;border:1px solid #ff186b}#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar span.change-settings-button:focus,#moove_gdpr_cookie_info_bar button.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar button.change-settings-button:focus{-webkit-box-shadow:0 0 1px 3px #ff186b;-moz-box-shadow:0 0 1px 3px #ff186b;box-shadow:0 0 1px 3px #ff186b}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#ff186b}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,span.change-settings-button:focus,button.change-settings-button.focus-g,button.change-settings-button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:focus{color:#ff186b}#moove_gdpr_cookie_modal .moove-gdpr-branding.focus-g span,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main a.focus-g,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .gdpr-cd-details-toggle.focus-g{color:#ff186b}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}
 /*# sourceURL=moove_gdpr_frontend-inline-css */
 </style>
 <script type="text/javascript" src="https://cdn.talentrecap.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
@@ -107,7 +107,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       });
       var f = d.getElementsByTagName(s)[0],
         j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
+        dl = l != 'dataLayer' ? '&amp;l=' + l : '';
       j.async = true;
       j.src =
         'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
@@ -158,7 +158,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         
                 <div class="row-start-1 col-start-1 flex items-center justify-center opacity-0 pointer-events-none delay-0 group-[.nav-active]/body:opacity-100 group-[.nav-active]/body:pointer-events-auto group-[.nav-active]/body:delay-150 group-[.reading-active]/body:opacity-0 group-[.reading-active]/body:pointer-events-none group-[.reading-active]/body:delay-0 transition-opacity duration-300">
           <form action="https://talentrecap.com/" method="get" class="w-full relative group/search">
-            <input type="search" name="s" placeholder="Search" class="w-full h-[34px] bg-white/15 rounded-full text-white placeholder-white font-heading font-extrabold uppercase -tracking-wide text-base text-center focus:outline-none px-10 [&::-webkit-search-cancel-button]:hidden [&::-webkit-search-decoration]:hidden" />
+            <input type="search" name="s" placeholder="Search" class="w-full h-[34px] bg-white/15 rounded-full text-white placeholder-white font-heading font-extrabold uppercase -tracking-wide text-base text-center focus:outline-none px-10 [&amp;::-webkit-search-cancel-button]:hidden [&amp;::-webkit-search-decoration]:hidden" />
             <svg id="floating-search-icon" class="absolute top-1/2 -translate-y-1/2 w-4 h-4 text-white pointer-events-none transition-[left] duration-300" style="left: calc(100% - 1.75rem);" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <circle cx="11" cy="11" r="8"></circle>
               <path d="M21 21l-4.35-4.35"></path>
@@ -199,15 +199,15 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                   <ul class="mobile-nav-children flex flex-col gap-3 opacity-0 max-h-0 overflow-hidden transition-all duration-300">
                                           <li>
                         <a href="https://talentrecap.com/talent/agt/" class="block text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-300">
-                          America&#039;s Got Talent                        </a>
+                          America's Got Talent                        </a>
                       </li>
                                           <li>
                         <a href="https://talentrecap.com/talent/britains-got-talent/" class="block text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-300">
-                          Britain&#039;s Got Talent                        </a>
+                          Britain's Got Talent                        </a>
                       </li>
                                           <li>
                         <a href="https://talentrecap.com/talent/canada-got-talent/" class="block text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-300">
-                          Canada&#039;s Got Talent                        </a>
+                          Canada's Got Talent                        </a>
                       </li>
                                           <li>
                         <a href="https://talentrecap.com/talent/dancing-with-the-stars/" class="block text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-300">
@@ -219,7 +219,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                       </li>
                                           <li>
                         <a href="https://talentrecap.com/more-shows/rupauls-dragrace/" class="block text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-300">
-                          RuPaul&#039;s Drag Race                        </a>
+                          RuPaul's Drag Race                        </a>
                       </li>
                                           <li>
                         <a href="https://talentrecap.com/talent/so-you-think-you-can-dance/" class="block text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-300">
@@ -277,15 +277,15 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                                   <ul class="nav-children overflow-hidden max-h-0 transition-all duration-500">
                                           <li class="px-4 first:pt-4 pb-3 last:pb-5">
                         <a href="https://talentrecap.com/talent/agt/" class="text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-500">
-                          America&#039;s Got Talent                        </a>
+                          America's Got Talent                        </a>
                       </li>
                                           <li class="px-4 first:pt-4 pb-3 last:pb-5">
                         <a href="https://talentrecap.com/talent/britains-got-talent/" class="text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-500">
-                          Britain&#039;s Got Talent                        </a>
+                          Britain's Got Talent                        </a>
                       </li>
                                           <li class="px-4 first:pt-4 pb-3 last:pb-5">
                         <a href="https://talentrecap.com/talent/canada-got-talent/" class="text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-500">
-                          Canada&#039;s Got Talent                        </a>
+                          Canada's Got Talent                        </a>
                       </li>
                                           <li class="px-4 first:pt-4 pb-3 last:pb-5">
                         <a href="https://talentrecap.com/talent/dancing-with-the-stars/" class="text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-500">
@@ -297,7 +297,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                       </li>
                                           <li class="px-4 first:pt-4 pb-3 last:pb-5">
                         <a href="https://talentrecap.com/more-shows/rupauls-dragrace/" class="text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-500">
-                          RuPaul&#039;s Drag Race                        </a>
+                          RuPaul's Drag Race                        </a>
                       </li>
                                           <li class="px-4 first:pt-4 pb-3 last:pb-5">
                         <a href="https://talentrecap.com/talent/so-you-think-you-can-dance/" class="text-white font-heading font-extrabold uppercase -tracking-wide text-xl hover:text-green transition-colors duration-500">
@@ -347,16 +347,16 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
           <div class="w-full h-px bg-white/25 block md:hidden"></div>
 
                       <div class="grid grid-cols-3 gap-1.5 md:gap-2.5">
-                              <a href="https://talentrecap.com/entertainment/" class="relative aspect-square rounded-lg overflow-hidden group [&.inactive]:opacity-75 transition-opacity duration-500" data-hover-fade-peers>
-                                      <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_AidenRoss_NiallHoran_Trae-Patton_NBC-300x300.jpg" class="w-full h-full object-cover" alt="Aiden Ross and Niall Horan on &#039;The Voice&#039; Season 28" decoding="async" fetchpriority="high" srcset="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_AidenRoss_NiallHoran_Trae-Patton_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_AidenRoss_NiallHoran_Trae-Patton_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                    <div class="absolute left-0 top-0 right-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent"></div>
+                              <a href="https://talentrecap.com/entertainment/" class="relative aspect-square rounded-lg overflow-hidden group [&amp;.inactive]:opacity-75 transition-opacity duration-500" data-hover-fade-peers>
+                                      <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_AidenRoss_NiallHoran_Trae-Patton_NBC-300x300.jpg" class="w-full h-full object-cover" alt="Aiden Ross and Niall Horan on 'The Voice' Season 28" decoding="async" fetchpriority="high" srcset="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_AidenRoss_NiallHoran_Trae-Patton_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_AidenRoss_NiallHoran_Trae-Patton_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                    <div class="absolute left-0 top-0 right-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent"></div>
                   <span class="absolute bottom-3 left-2.5 right-2.5 text-white font-heading font-extrabold uppercase -tracking-wide text-xs md:text-sm !leading-[1.1]">Entertainment</span>
                 </a>
-                              <a href="https://talentrecap.com/singing/" class="relative aspect-square rounded-lg overflow-hidden group [&.inactive]:opacity-75 transition-opacity duration-500" data-hover-fade-peers>
-                                      <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_NiallHoran_TheVoiceFinale_Griffin-NagelNBC-300x300.jpg" class="w-full h-full object-cover" alt="Niall Horan on &#039;The Voice&#039; 2025" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_NiallHoran_TheVoiceFinale_Griffin-NagelNBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_NiallHoran_TheVoiceFinale_Griffin-NagelNBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                    <div class="absolute left-0 top-0 right-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent"></div>
+                              <a href="https://talentrecap.com/singing/" class="relative aspect-square rounded-lg overflow-hidden group [&amp;.inactive]:opacity-75 transition-opacity duration-500" data-hover-fade-peers>
+                                      <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_NiallHoran_TheVoiceFinale_Griffin-NagelNBC-300x300.jpg" class="w-full h-full object-cover" alt="Niall Horan on 'The Voice' 2025" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_NiallHoran_TheVoiceFinale_Griffin-NagelNBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_NiallHoran_TheVoiceFinale_Griffin-NagelNBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                    <div class="absolute left-0 top-0 right-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent"></div>
                   <span class="absolute bottom-3 left-2.5 right-2.5 text-white font-heading font-extrabold uppercase -tracking-wide text-xs md:text-sm !leading-[1.1]">Singing</span>
                 </a>
-                              <a href="https://talentrecap.com/talent/" class="relative aspect-square rounded-lg overflow-hidden group [&.inactive]:opacity-75 transition-opacity duration-500" data-hover-fade-peers>
-                                      <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_Eggplant_Michael-Becker-_-FOX-300x300.jpg" class="w-full h-full object-cover" alt="Eggplant on &#039;The Masked Singer&#039; 2025" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_Eggplant_Michael-Becker-_-FOX-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_Eggplant_Michael-Becker-_-FOX-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                    <div class="absolute left-0 top-0 right-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent"></div>
+                              <a href="https://talentrecap.com/talent/" class="relative aspect-square rounded-lg overflow-hidden group [&amp;.inactive]:opacity-75 transition-opacity duration-500" data-hover-fade-peers>
+                                      <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_Eggplant_Michael-Becker-_-FOX-300x300.jpg" class="w-full h-full object-cover" alt="Eggplant on 'The Masked Singer' 2025" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_Eggplant_Michael-Becker-_-FOX-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2025/12/Original_Eggplant_Michael-Becker-_-FOX-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                    <div class="absolute left-0 top-0 right-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent"></div>
                   <span class="absolute bottom-3 left-2.5 right-2.5 text-white font-heading font-extrabold uppercase -tracking-wide text-xs md:text-sm !leading-[1.1]">Talent</span>
                 </a>
                           </div>
@@ -364,22 +364,22 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
           <div class="flex flex-col gap-3 md:gap-4">
                           <p class="text-white font-heading font-extrabold uppercase -tracking-wide text-lg md:text-xl text-center">More Topics</p>
               <div class="flex flex-nowrap md:flex-wrap md:justify-center gap-2.5 -mx-7 md:-mx-4 px-6 md:px-0 pb-4 md:pb-0 overflow-x-auto md:overflow-visible">
-                                  <a href="https://talentrecap.com/talent/so-you-think-you-can-dance/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
-                    So You Think You Can Dance                  </a>
-                                  <a href="https://talentrecap.com/talent/agt/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
-                    America&#039;s Got Talent                  </a>
-                                  <a href="https://talentrecap.com/singing/the-masked-singer/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
-                    The Masked Singer                  </a>
-                                  <a href="https://talentrecap.com/talent/britains-got-talent/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
-                    Britain&#039;s Got Talent                  </a>
-                                  <a href="https://talentrecap.com/singing/the-voice/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
-                    The Voice                  </a>
                                   <a href="https://talentrecap.com/talent/dancing-with-the-stars/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
                     Dancing With The Stars                  </a>
                                   <a href="https://talentrecap.com/entertainment/celebrity/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
                     Celebrity                  </a>
+                                  <a href="https://talentrecap.com/talent/britains-got-talent/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
+                    Britain's Got Talent                  </a>
+                                  <a href="https://talentrecap.com/singing/the-masked-singer/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
+                    The Masked Singer                  </a>
+                                  <a href="https://talentrecap.com/talent/so-you-think-you-can-dance/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
+                    So You Think You Can Dance                  </a>
                                   <a href="https://talentrecap.com/singing/american-idol/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
                     American Idol                  </a>
+                                  <a href="https://talentrecap.com/talent/agt/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
+                    America's Got Talent                  </a>
+                                  <a href="https://talentrecap.com/singing/the-voice/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
+                    The Voice                  </a>
                               </div>
                       </div>
         </div>
@@ -392,37 +392,37 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             <ul class="splide__list">
                               <li class="splide__slide !w-[155px]">
                   <a href="https://talentrecap.com/the-voice-coach-riley-green-difficulty-adjusting/" class="block relative aspect-square rounded-md overflow-hidden group">
-                                          <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_RileyGreen_Trae-PattonNBC-300x300.jpg" class="w-full h-full object-cover" alt="Riley Green on &#039;The Voice&#039; 2025" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_RileyGreen_Trae-PattonNBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_RileyGreen_Trae-PattonNBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
+                                          <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_RileyGreen_Trae-PattonNBC-300x300.jpg" class="w-full h-full object-cover" alt="Riley Green on 'The Voice' 2025" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_RileyGreen_Trae-PattonNBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_RileyGreen_Trae-PattonNBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
                     <span class="absolute bottom-2 left-2 right-2 text-white font-heading font-extrabold uppercase -tracking-wide text-base !leading-[1.1] line-clamp-4">
-                      New &#039;The Voice&#039; Coach Riley Green Having Difficulty &#039;Adjusting&#039; to the Show                    </span>
+                      New 'The Voice' Coach Riley Green Having Difficulty 'Adjusting' to the Show                    </span>
                   </a>
                 </li>
                               <li class="splide__slide !w-[155px]">
                   <a href="https://talentrecap.com/dwts-the-next-pro-recap-britt-stewart-judges/" class="block relative aspect-square rounded-md overflow-hidden group">
                                           <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/DWTS-The-Next-Pro-Britt-Stewart-300x300.jpg" class="w-full h-full object-cover" alt="" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/DWTS-The-Next-Pro-Britt-Stewart-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/DWTS-The-Next-Pro-Britt-Stewart-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
                     <span class="absolute bottom-2 left-2 right-2 text-white font-heading font-extrabold uppercase -tracking-wide text-base !leading-[1.1] line-clamp-4">
-                      &#039;DWTS: The Next Pro&#039; Recap: Shocking Elimination as Britt Stewart Judges                    </span>
+                      'DWTS: The Next Pro' Recap: Shocking Elimination as Britt Stewart Judges                    </span>
                   </a>
                 </li>
                               <li class="splide__slide !w-[155px]">
                   <a href="https://talentrecap.com/dwts-season-35-jackson-olson-unfair-advantage/" class="block relative aspect-square rounded-md overflow-hidden group">
-                                          <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_JacksonOlsen_Disney_Pawel-Kaminski-300x300.jpg" class="w-full h-full object-cover" alt="Jackson Olsen announced as next &#039;Dancing With The Stars&#039; cast member" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_JacksonOlsen_Disney_Pawel-Kaminski-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_JacksonOlsen_Disney_Pawel-Kaminski-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
+                                          <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_JacksonOlsen_Disney_Pawel-Kaminski-300x300.jpg" class="w-full h-full object-cover" alt="Jackson Olsen announced as next 'Dancing With The Stars' cast member" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_JacksonOlsen_Disney_Pawel-Kaminski-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_JacksonOlsen_Disney_Pawel-Kaminski-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
                     <span class="absolute bottom-2 left-2 right-2 text-white font-heading font-extrabold uppercase -tracking-wide text-base !leading-[1.1] line-clamp-4">
-                      &#039;DWTS&#039; Season 35 Contestant Jackson Olson Responds to Claims of &#039;Unfair Advantage&#039;                    </span>
+                      'DWTS' Season 35 Contestant Jackson Olson Responds to Claims of 'Unfair Advantage'                    </span>
                   </a>
                 </li>
                               <li class="splide__slide !w-[155px]">
                   <a href="https://talentrecap.com/agt-judges-callbacks-guest-emma-bunton-normani/" class="block relative aspect-square rounded-md overflow-hidden group">
-                                          <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_JudgeCallbacks_Trae-Patton_NBC-300x300.jpg" class="w-full h-full object-cover" alt="Howie Mandel, Mel B, Sofia Vergara, and Simon Cowell on &#039;America&#039;s Got Talent&#039;" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_JudgeCallbacks_Trae-Patton_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_JudgeCallbacks_Trae-Patton_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
+                                          <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_JudgeCallbacks_Trae-Patton_NBC-300x300.jpg" class="w-full h-full object-cover" alt="Howie Mandel, Mel B, Sofia Vergara, and Simon Cowell on 'America's Got Talent'" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_JudgeCallbacks_Trae-Patton_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_JudgeCallbacks_Trae-Patton_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
                     <span class="absolute bottom-2 left-2 right-2 text-white font-heading font-extrabold uppercase -tracking-wide text-base !leading-[1.1] line-clamp-4">
-                      &#039;AGT&#039; Judges&#039; Callbacks to Feature Guests Emma Bunton, Normani, and More                    </span>
+                      'AGT' Judges' Callbacks to Feature Guests Emma Bunton, Normani, and More                    </span>
                   </a>
                 </li>
                               <li class="splide__slide !w-[155px]">
                   <a href="https://talentrecap.com/katy-perrys-lifetimes-tour-concert-film-theaters/" class="block relative aspect-square rounded-md overflow-hidden group">
-                                          <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2024/08/Original_KatyPerry_IdolFinale2024_DisneyEricMcCandless-300x300.jpg" class="w-full h-full object-cover" alt="Katy Perry on the &#039;American Idol&#039; 2024 Finale red carpet" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2024/08/Original_KatyPerry_IdolFinale2024_DisneyEricMcCandless-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2024/08/Original_KatyPerry_IdolFinale2024_DisneyEricMcCandless-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
+                                          <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2024/08/Original_KatyPerry_IdolFinale2024_DisneyEricMcCandless-300x300.jpg" class="w-full h-full object-cover" alt="Katy Perry on the 'American Idol' 2024 Finale red carpet" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2024/08/Original_KatyPerry_IdolFinale2024_DisneyEricMcCandless-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2024/08/Original_KatyPerry_IdolFinale2024_DisneyEricMcCandless-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
                     <span class="absolute bottom-2 left-2 right-2 text-white font-heading font-extrabold uppercase -tracking-wide text-base !leading-[1.1] line-clamp-4">
-                      Katy Perry&#039;s Lifetimes Tour Concert Film Is Coming to Movie Theaters                    </span>
+                      Katy Perry's Lifetimes Tour Concert Film Is Coming to Movie Theaters                    </span>
                   </a>
                 </li>
                           </ul>
@@ -538,7 +538,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                 <a href="https://talentrecap.com/singing/the-voice/" class="block font-heading-alt uppercase font-bold text-2xs !leading-[1] text-yellow hover:text-white -tracking-wide bg-purple hover:bg-pink rounded-sm py-3 px-2 text-center transition-colors duration-500 truncate">The Voice</a>
               </li>
                           <li class="flex-auto min-w-0">
-                <a href="https://talentrecap.com/talent/agt/" class="block font-heading-alt uppercase font-bold text-2xs !leading-[1] text-yellow hover:text-white -tracking-wide bg-purple hover:bg-pink rounded-sm py-3 px-2 text-center transition-colors duration-500 truncate">America&#039;s Got Talent</a>
+                <a href="https://talentrecap.com/talent/agt/" class="block font-heading-alt uppercase font-bold text-2xs !leading-[1] text-yellow hover:text-white -tracking-wide bg-purple hover:bg-pink rounded-sm py-3 px-2 text-center transition-colors duration-500 truncate">America's Got Talent</a>
               </li>
                           <li class="flex-auto min-w-0">
                 <a href="https://talentrecap.com/talent/dancing-with-the-stars/" class="block font-heading-alt uppercase font-bold text-2xs !leading-[1] text-yellow hover:text-white -tracking-wide bg-purple hover:bg-pink rounded-sm py-3 px-2 text-center transition-colors duration-500 truncate">Dancing With The Stars</a>
@@ -557,7 +557,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                 <a href="https://talentrecap.com/singing/the-voice/" class="block font-heading-alt uppercase font-bold text-2xs 5xl:text-xs !leading-[1] text-yellow hover:text-white -tracking-wide bg-purple hover:bg-pink rounded-sm pt-2 pb-1.5 px-2 text-center transition-colors duration-500 truncate">The Voice</a>
               </li>
                           <li class="flex-auto min-w-0">
-                <a href="https://talentrecap.com/talent/agt/" class="block font-heading-alt uppercase font-bold text-2xs 5xl:text-xs !leading-[1] text-yellow hover:text-white -tracking-wide bg-purple hover:bg-pink rounded-sm pt-2 pb-1.5 px-2 text-center transition-colors duration-500 truncate">America&#039;s Got Talent</a>
+                <a href="https://talentrecap.com/talent/agt/" class="block font-heading-alt uppercase font-bold text-2xs 5xl:text-xs !leading-[1] text-yellow hover:text-white -tracking-wide bg-purple hover:bg-pink rounded-sm pt-2 pb-1.5 px-2 text-center transition-colors duration-500 truncate">America's Got Talent</a>
               </li>
                           <li class="flex-auto min-w-0">
                 <a href="https://talentrecap.com/talent/dancing-with-the-stars/" class="block font-heading-alt uppercase font-bold text-2xs 5xl:text-xs !leading-[1] text-yellow hover:text-white -tracking-wide bg-purple hover:bg-pink rounded-sm pt-2 pb-1.5 px-2 text-center transition-colors duration-500 truncate">Dancing With The Stars</a>
@@ -601,8 +601,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
           <h1 class="text-xl 5xl:text-3xl font-extrabold font-heading uppercase -tracking-wide text-navy">
             Corey Cesare          </h1>
                       <div class="w-full max-w-xl 5xl:max-w-2xl">
-                <div class="prose max-w-none text-current marker:text-black prose-headings:scroll-mt-10 prose-headings:font-heading prose-headings:font-black prose-headings:uppercase prose-headings:text-current 5xl:prose-h2:text-4xl 5xl:prose-h3:text-3xl 5xl:prose-h4:text-2xl 5xl:prose-h5:text-xl prose-table:hidden prose-strong:text-current prose-strong:font-bold prose-a:font-bold prose-a:no-underline prose-a:not-italic prose-a:text-blue hover:prose-a:text-pink prose-a:transition-colors prose-a:duration-500 prose-blockquote:font-semibold prose-blockquote:text-xl md:prose-blockquote:text-2xl lg:prose-blockquote:text-3xl 5xl:prose-blockquote:text-4xl prose-blockquote:font-sans prose-blockquote:not-italic prose-figure:!my-8 lg:[&_.wp-block-pullquote_blockquote]:!-ml-7 lg:[&_.wp-block-pullquote_blockquote]:!-mr-7 [&_.wp-block-pullquote_blockquote_cite]:text-sm [&_.wp-block-pullquote_blockquote_cite]:not-italic [&_.wp-block-pullquote_blockquote_cite]:font-normal [&_.wp-block-pullquote_blockquote_cite]:-tracking-wide [&_.wp-block-pullquote_blockquote_cite]:-mt-5 [&_.wp-block-pullquote_blockquote_cite]:text-right [&_iframe]:rounded-lg [&_video]:rounded-lg [&_.wp-block-embed-youtube_iframe]:!h-full [&_.wp-block-embed-youtube_iframe]:!aspect-video [&_.wp-block-pullquote]:!py-0 [&_.wp-element-caption_.media-credit]:block [&_.wp-element-caption_.media-credit]:-mt-[36px] [&_.wp-element-caption_.media-credit]:pr-3 [&_.wp-element-caption_.media-credit]:text-white [&_.wp-element-caption_.media-credit]:pb-7 md:[&_.wp-element-caption_.media-credit]:pb-5 [&_.wp-element-caption]:text-black [&_.wp-element-caption]:text-xs md:[&_.wp-element-caption]:text-sm 5xl:[&_.wp-element-caption]:text-base [&_.wp-block-details_summary]:font-bold [&_.wp-block-details]:bg-blue-light [&_.wp-block-details]:rounded-lg [&_.wp-block-details]:px-5 [&_.wp-block-details]:py-2.5 [&_iframe.instagram-media]:!my-8 [&_iframe]:!-mx-3 [&_iframe]:!w-[calc(100%+24px)] md:[&_iframe]:!w-[calc(100%-2px)] md:[&_iframe]:!mx-auto prose-img:-ml-8 prose-img:-mr-8 prose-img:rounded-none prose-img:min-w-[100vw] prose-img:max-w-[100vw] md:prose-img:min-w-0 md:prose-img:max-w-full md:prose-img:rounded-lg md:prose-img:mx-0 [&_.wp-block-embed_iframe]:!max-w-none text-sm 5xl:text-lg text-navy">
-          <p>Corey Cesare is Talent Recap&#8217;s Managing Editor and featured YouTube Host. She has a love of all things pop culture and an unhealthy obsession with celebrities. Corey earned her Bachelor of Arts degree in Journalism and Cinema/Screen Studies from the State University of New York at Oswego in 2021. She spends her spare time shooting astro, nature, and portrait photography, and coming up with movie ideas that she hopes to make into a film someday.</p>
+                <div class="prose max-w-none text-current marker:text-black prose-headings:scroll-mt-10 prose-headings:font-heading prose-headings:font-black prose-headings:uppercase prose-headings:text-current 5xl:prose-h2:text-4xl 5xl:prose-h3:text-3xl 5xl:prose-h4:text-2xl 5xl:prose-h5:text-xl prose-table:hidden prose-strong:text-current prose-strong:font-bold prose-a:font-bold prose-a:no-underline prose-a:not-italic prose-a:text-blue hover:prose-a:text-pink prose-a:transition-colors prose-a:duration-500 prose-blockquote:font-semibold prose-blockquote:text-xl md:prose-blockquote:text-2xl lg:prose-blockquote:text-3xl 5xl:prose-blockquote:text-4xl prose-blockquote:font-sans prose-blockquote:not-italic prose-figure:!my-8 lg:[&amp;_.wp-block-pullquote_blockquote]:!-ml-7 lg:[&amp;_.wp-block-pullquote_blockquote]:!-mr-7 [&amp;_.wp-block-pullquote_blockquote_cite]:text-sm [&amp;_.wp-block-pullquote_blockquote_cite]:not-italic [&amp;_.wp-block-pullquote_blockquote_cite]:font-normal [&amp;_.wp-block-pullquote_blockquote_cite]:-tracking-wide [&amp;_.wp-block-pullquote_blockquote_cite]:-mt-5 [&amp;_.wp-block-pullquote_blockquote_cite]:text-right [&amp;_iframe]:rounded-lg [&amp;_video]:rounded-lg [&amp;_.wp-block-embed-youtube_iframe]:!h-full [&amp;_.wp-block-embed-youtube_iframe]:!aspect-video [&amp;_.wp-block-pullquote]:!py-0 [&amp;_.wp-element-caption_.media-credit]:block [&amp;_.wp-element-caption_.media-credit]:-mt-[36px] [&amp;_.wp-element-caption_.media-credit]:pr-3 [&amp;_.wp-element-caption_.media-credit]:text-white [&amp;_.wp-element-caption_.media-credit]:pb-7 md:[&amp;_.wp-element-caption_.media-credit]:pb-5 [&amp;_.wp-element-caption]:text-black [&amp;_.wp-element-caption]:text-xs md:[&amp;_.wp-element-caption]:text-sm 5xl:[&amp;_.wp-element-caption]:text-base [&amp;_.wp-block-details_summary]:font-bold [&amp;_.wp-block-details]:bg-blue-light [&amp;_.wp-block-details]:rounded-lg [&amp;_.wp-block-details]:px-5 [&amp;_.wp-block-details]:py-2.5 [&amp;_iframe.instagram-media]:!my-8 [&amp;_iframe]:!-mx-3 [&amp;_iframe]:!w-[calc(100%+24px)] md:[&amp;_iframe]:!w-[calc(100%-2px)] md:[&amp;_iframe]:!mx-auto prose-img:-ml-8 prose-img:-mr-8 prose-img:rounded-none prose-img:min-w-[100vw] prose-img:max-w-[100vw] md:prose-img:min-w-0 md:prose-img:max-w-full md:prose-img:rounded-lg md:prose-img:mx-0 [&amp;_.wp-block-embed_iframe]:!max-w-none text-sm 5xl:text-lg text-navy">
+          <p>Corey Cesare is Talent Recap’s Managing Editor and featured YouTube Host. She has a love of all things pop culture and an unhealthy obsession with celebrities. Corey earned her Bachelor of Arts degree in Journalism and Cinema/Screen Studies from the State University of New York at Oswego in 2021. She spends her spare time shooting astro, nature, and portrait photography, and coming up with movie ideas that she hopes to make into a film someday.</p>
       </div>
             </div>
                   </div>
@@ -640,17 +640,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="group/item flex flex-col gap-4">
         <div class="relative">
                       <a href="https://talentrecap.com/talent/agt/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
-              America&#039;s Got Talent            </a>
-                    <a href="https://talentrecap.com/everything-to-know-about-agt-rockstar-nene-royal/" aria-label="Everything to Know About Viral &#8216;AGT&#8217; Rockstar Nene Royal" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+              America's Got Talent            </a>
+                    <a href="https://talentrecap.com/everything-to-know-about-agt-rockstar-nene-royal/" aria-label="Everything to Know About Viral ‘AGT’ Rockstar Nene Royal" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_NeneRoyal_Chris-HastonNBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Nene Royal auditions for &#039;America&#039;s Got Talent&#039;" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_NeneRoyal_Chris-HastonNBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_NeneRoyal_Chris-HastonNBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_NeneRoyal_Chris-HastonNBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Nene Royal auditions for 'America's Got Talent'" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_NeneRoyal_Chris-HastonNBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_NeneRoyal_Chris-HastonNBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/everything-to-know-about-agt-rockstar-nene-royal/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Everything to Know About Viral &#8216;AGT&#8217; Rockstar Nene Royal</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Everything to Know About Viral ‘AGT’ Rockstar Nene Royal</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">5 days ago</time> &nbsp;|&nbsp; 2 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">5 days ago</time>  |  2 min read</p>
                             </div>
       </div>
     </div>
@@ -658,17 +658,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="group/item flex flex-col gap-4">
         <div class="relative">
                       <a href="https://talentrecap.com/talent/agt/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
-              America&#039;s Got Talent            </a>
-                    <a href="https://talentrecap.com/agt-contortionist-overcame-paralysis/" aria-label="&#8216;AGT&#8217; Judges Left Speechless by 18-Year-Old Contortionist Who Overcame Paralysis" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+              America's Got Talent            </a>
+                    <a href="https://talentrecap.com/agt-contortionist-overcame-paralysis/" aria-label="‘AGT’ Judges Left Speechless by 18-Year-Old Contortionist Who Overcame Paralysis" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_Maria_Trae-Patton_NBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Maria auditions for &#039;America&#039;s Got Talent&#039; 2026" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_Maria_Trae-Patton_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_Maria_Trae-Patton_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_Maria_Trae-Patton_NBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Maria auditions for 'America's Got Talent' 2026" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_Maria_Trae-Patton_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_Maria_Trae-Patton_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/agt-contortionist-overcame-paralysis/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">&#8216;AGT&#8217; Judges Left Speechless by 18-Year-Old Contortionist Who Overcame Paralysis</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">‘AGT’ Judges Left Speechless by 18-Year-Old Contortionist Who Overcame Paralysis</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">1 week ago</time> &nbsp;|&nbsp; 3 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">1 week ago</time>  |  3 min read</p>
                             </div>
       </div>
     </div>
@@ -676,17 +676,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="group/item flex flex-col gap-4">
         <div class="relative">
                       <a href="https://talentrecap.com/talent/agt/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
-              America&#039;s Got Talent            </a>
-                    <a href="https://talentrecap.com/every-act-that-earned-golden-buzzer-on-agt-2026/" aria-label="Every Act that Earned the Golden Buzzer on &#8216;AGT&#8217; 2026" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+              America's Got Talent            </a>
+                    <a href="https://talentrecap.com/every-act-that-earned-golden-buzzer-on-agt-2026/" aria-label="Every Act that Earned the Golden Buzzer on ‘AGT’ 2026" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AGT_AllGB_2026-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Mackenzie Sol, Isaac Atkins, Royal Lasers, and Lara on &#039;America&#039;s Got Talent&#039; 2026" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AGT_AllGB_2026-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AGT_AllGB_2026-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AGT_AllGB_2026-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Mackenzie Sol, Isaac Atkins, Royal Lasers, and Lara on 'America's Got Talent' 2026" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AGT_AllGB_2026-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AGT_AllGB_2026-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/every-act-that-earned-golden-buzzer-on-agt-2026/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Every Act that Earned the Golden Buzzer on &#8216;AGT&#8217; 2026</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Every Act that Earned the Golden Buzzer on ‘AGT’ 2026</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">1 week ago</time> &nbsp;|&nbsp; 4 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">1 week ago</time>  |  4 min read</p>
                             </div>
       </div>
     </div>
@@ -694,17 +694,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="group/item flex flex-col gap-4">
         <div class="relative">
                       <a href="https://talentrecap.com/talent/agt/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
-              America&#039;s Got Talent            </a>
-                    <a href="https://talentrecap.com/simon-cowell-calls-agt-country-audition-very-safe/" aria-label="Simon Cowell Calls &#8216;AGT&#8217; Country Trio Audition &#8220;Very Safe&#8221;" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+              America's Got Talent            </a>
+                    <a href="https://talentrecap.com/simon-cowell-calls-agt-country-audition-very-safe/" aria-label="Simon Cowell Calls ‘AGT’ Country Trio Audition “Very Safe”" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_TheSound_Trae-Patton_NBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="The Sound auditions for &#039;America&#039;s Got Talent&#039; 2026" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_TheSound_Trae-Patton_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_TheSound_Trae-Patton_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_TheSound_Trae-Patton_NBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="The Sound auditions for 'America's Got Talent' 2026" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_TheSound_Trae-Patton_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_TheSound_Trae-Patton_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/simon-cowell-calls-agt-country-audition-very-safe/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Simon Cowell Calls &#8216;AGT&#8217; Country Trio Audition &#8220;Very Safe&#8221;</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Simon Cowell Calls ‘AGT’ Country Trio Audition “Very Safe”</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">1 week ago</time> &nbsp;|&nbsp; 3 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">1 week ago</time>  |  3 min read</p>
                             </div>
       </div>
     </div>
@@ -712,17 +712,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="group/item flex flex-col gap-4">
         <div class="relative">
                       <a href="https://talentrecap.com/talent/agt/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
-              America&#039;s Got Talent            </a>
-                    <a href="https://talentrecap.com/americas-got-talent-golden-veronika-goroshkova/" aria-label=" Meet &#8216;America&#8217;s Got Talent&#8217; Golden Buzzer Aerialist Veronika Goroshkova" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+              America's Got Talent            </a>
+                    <a href="https://talentrecap.com/americas-got-talent-golden-veronika-goroshkova/" aria-label=" Meet ‘America’s Got Talent’ Golden Buzzer Aerialist Veronika Goroshkova" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_VeronikaGoroshkova_ChrisHaston_NBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Veronika Goroshkova auditions for &#039;America&#039;s Got Talent&#039;" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_VeronikaGoroshkova_ChrisHaston_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_VeronikaGoroshkova_ChrisHaston_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_VeronikaGoroshkova_ChrisHaston_NBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Veronika Goroshkova auditions for 'America's Got Talent'" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_VeronikaGoroshkova_ChrisHaston_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_VeronikaGoroshkova_ChrisHaston_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/americas-got-talent-golden-veronika-goroshkova/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline"> Meet &#8216;America&#8217;s Got Talent&#8217; Golden Buzzer Aerialist Veronika Goroshkova</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline"> Meet ‘America’s Got Talent’ Golden Buzzer Aerialist Veronika Goroshkova</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">1 week ago</time> &nbsp;|&nbsp; 2 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">1 week ago</time>  |  2 min read</p>
                             </div>
       </div>
     </div>
@@ -730,17 +730,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="group/item flex flex-col gap-4">
         <div class="relative">
                       <a href="https://talentrecap.com/talent/agt/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
-              America&#039;s Got Talent            </a>
-                    <a href="https://talentrecap.com/impressionist-pitches-new-agt-judges-simon-cowell/" aria-label="Impressionist Pitches New &#8216;AGT&#8217; Judges to Current Panel, Simon Cowell Loved it" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+              America's Got Talent            </a>
+                    <a href="https://talentrecap.com/impressionist-pitches-new-agt-judges-simon-cowell/" aria-label="Impressionist Pitches New ‘AGT’ Judges to Current Panel, Simon Cowell Loved it" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_CameronLogsdon_Trae-PattonNBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Cameron Logsdon on &#039;America&#039;s Got Talent&#039;" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_CameronLogsdon_Trae-PattonNBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_CameronLogsdon_Trae-PattonNBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_CameronLogsdon_Trae-PattonNBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Cameron Logsdon on 'America's Got Talent'" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_CameronLogsdon_Trae-PattonNBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_CameronLogsdon_Trae-PattonNBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/impressionist-pitches-new-agt-judges-simon-cowell/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Impressionist Pitches New &#8216;AGT&#8217; Judges to Current Panel, Simon Cowell Loved it</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Impressionist Pitches New ‘AGT’ Judges to Current Panel, Simon Cowell Loved it</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">2 weeks ago</time> &nbsp;|&nbsp; 3 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">2 weeks ago</time>  |  3 min read</p>
                             </div>
       </div>
     </div>
@@ -1034,17 +1034,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="group/item flex flex-col gap-4">
         <div class="relative">
                       <a href="https://talentrecap.com/talent/agt/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
-              America&#039;s Got Talent            </a>
-                    <a href="https://talentrecap.com/restaurant-owner-stuns-americas-got-talent-judges/" aria-label="Restaurant Owner Stuns &#8216;America&#8217;s Got Talent&#8217; Judges" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+              America's Got Talent            </a>
+                    <a href="https://talentrecap.com/restaurant-owner-stuns-americas-got-talent-judges/" aria-label="Restaurant Owner Stuns ‘America’s Got Talent’ Judges" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AshfordSanders_Chris-Haston_NBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Ashford Sanders on &#039;America&#039;s Got Talent&#039;" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AshfordSanders_Chris-Haston_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AshfordSanders_Chris-Haston_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AshfordSanders_Chris-Haston_NBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Ashford Sanders on 'America's Got Talent'" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AshfordSanders_Chris-Haston_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_AshfordSanders_Chris-Haston_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/restaurant-owner-stuns-americas-got-talent-judges/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Restaurant Owner Stuns &#8216;America&#8217;s Got Talent&#8217; Judges</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Restaurant Owner Stuns ‘America’s Got Talent’ Judges</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.10.2026</time> &nbsp;|&nbsp; 2 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.10.2026</time>  |  2 min read</p>
                             </div>
       </div>
     </div>
@@ -1053,16 +1053,16 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="relative">
                       <a href="https://talentrecap.com/singing/american-idol/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
               American Idol            </a>
-                    <a href="https://talentrecap.com/katy-perry-roasted-big-brothers-lyric-medeiros-on-american-idol/" aria-label="Did You Know Katy Perry Roasted &#8216;Big Brother&#8217; Star Lyric Medeiros on &#8216;American Idol&#8217;?" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+                    <a href="https://talentrecap.com/katy-perry-roasted-big-brothers-lyric-medeiros-on-american-idol/" aria-label="Did You Know Katy Perry Roasted ‘Big Brother’ Star Lyric Medeiros on ‘American Idol’?" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Website-Thumbnail-Template-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Lyric Medeiros for &#039;Big Brother&#039; CBS and Katy Perry for &#039;American Idol&#039;" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Website-Thumbnail-Template-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Website-Thumbnail-Template-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Website-Thumbnail-Template-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Lyric Medeiros for 'Big Brother' CBS and Katy Perry for 'American Idol'" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Website-Thumbnail-Template-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Website-Thumbnail-Template-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/katy-perry-roasted-big-brothers-lyric-medeiros-on-american-idol/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Did You Know Katy Perry Roasted &#8216;Big Brother&#8217; Star Lyric Medeiros on &#8216;American Idol&#8217;?</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Did You Know Katy Perry Roasted ‘Big Brother’ Star Lyric Medeiros on ‘American Idol’?</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.08.2026</time> &nbsp;|&nbsp; 3 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.08.2026</time>  |  3 min read</p>
                             </div>
       </div>
     </div>
@@ -1070,17 +1070,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="group/item flex flex-col gap-4">
         <div class="relative">
                       <a href="https://talentrecap.com/talent/agt/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
-              America&#039;s Got Talent            </a>
+              America's Got Talent            </a>
                     <a href="https://talentrecap.com/terry-crews-hits-golden-buzzer-glow-in-dark-dancer/" aria-label="Terry Crews Hits Golden Buzzer For Glow-in-Dark Dance Act" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_RoyalLasers_Trae-PattonNBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Royal Lasers on &#039;America&#039;s Got Talent&#039; 2026" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_RoyalLasers_Trae-PattonNBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_RoyalLasers_Trae-PattonNBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_RoyalLasers_Trae-PattonNBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Royal Lasers on 'America's Got Talent' 2026" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_RoyalLasers_Trae-PattonNBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/07/Original_RoyalLasers_Trae-PattonNBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/terry-crews-hits-golden-buzzer-glow-in-dark-dancer/" class="hover:text-pink transition-colors duration-500">
             <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Terry Crews Hits Golden Buzzer For Glow-in-Dark Dance Act</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.07.2026</time> &nbsp;|&nbsp; 2 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.07.2026</time>  |  2 min read</p>
                             </div>
       </div>
     </div>
@@ -1089,16 +1089,16 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="relative">
                       <a href="https://talentrecap.com/singing/the-masked-singer/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
               The Masked Singer            </a>
-                    <a href="https://talentrecap.com/remembering-nick-cannons-return-to-masked-singer/" aria-label="Remembering Nick Cannon&#8217;s Flashy Return to &#8216;The Masked Singer&#8217;" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+                    <a href="https://talentrecap.com/remembering-nick-cannons-return-to-masked-singer/" aria-label="Remembering Nick Cannon’s Flashy Return to ‘The Masked Singer’" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
               <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2021/04/Nick-Cannon-The-Masked-Singer-Niecy-Nash-The-Bulldog-300x300.jpeg" class=" w-full h-full object-cover rounded-lg" alt="Nick-Cannon-The-Masked-Singer-Niecy-Nash-The-Bulldog" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2021/04/Nick-Cannon-The-Masked-Singer-Niecy-Nash-The-Bulldog-300x300.jpeg 300w, https://cdn.talentrecap.com/wp-content/uploads/2021/04/Nick-Cannon-The-Masked-Singer-Niecy-Nash-The-Bulldog-150x150.jpeg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/remembering-nick-cannons-return-to-masked-singer/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Remembering Nick Cannon&#8217;s Flashy Return to &#8216;The Masked Singer&#8217;</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">Remembering Nick Cannon’s Flashy Return to ‘The Masked Singer’</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.05.2026</time> &nbsp;|&nbsp; 2 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.05.2026</time>  |  2 min read</p>
                             </div>
       </div>
     </div>
@@ -1106,17 +1106,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="group/item flex flex-col gap-4">
         <div class="relative">
                       <a href="https://talentrecap.com/talent/agt/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
-              America&#039;s Got Talent            </a>
-                    <a href="https://talentrecap.com/americas-got-talent-guest-judge-golden-buzzers/" aria-label="&#8216;America’s Got Talent&#8217; Should Bring Back Guest Judge Golden Buzzers — Here&#8217;s Why" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+              America's Got Talent            </a>
+                    <a href="https://talentrecap.com/americas-got-talent-guest-judge-golden-buzzers/" aria-label="‘America’s Got Talent’ Should Bring Back Guest Judge Golden Buzzers — Here’s Why" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_AGT_S20_Judges_Chris-Haston_NBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Howie Mandel, Mel B, Terry Crews, Sofia Vergara, and Simon Cowell on &#039;America&#039;s Got Talent&#039; Season 20" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_AGT_S20_Judges_Chris-Haston_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_AGT_S20_Judges_Chris-Haston_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_AGT_S20_Judges_Chris-Haston_NBC-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Howie Mandel, Mel B, Terry Crews, Sofia Vergara, and Simon Cowell on 'America's Got Talent' Season 20" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_AGT_S20_Judges_Chris-Haston_NBC-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2026/05/Original_AGT_S20_Judges_Chris-Haston_NBC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/americas-got-talent-guest-judge-golden-buzzers/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">&#8216;America’s Got Talent&#8217; Should Bring Back Guest Judge Golden Buzzers — Here&#8217;s Why</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">‘America’s Got Talent’ Should Bring Back Guest Judge Golden Buzzers — Here’s Why</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.04.2026</time> &nbsp;|&nbsp; 3 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.04.2026</time>  |  3 min read</p>
                             </div>
       </div>
     </div>
@@ -1125,16 +1125,16 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="relative">
                       <a href="https://talentrecap.com/entertainment/celebrity/" class="absolute bottom-3 left-3 z-10 bg-white/25 hover:bg-white/10 backdrop-blur-xl text-white uppercase font-heading-alt font-bold italic -tracking-wide text-2xs 5xl:text-sm !leading-[1] px-1.5 py-2 rounded-sm transition-colors duration-500">
               Celebrity            </a>
-                    <a href="https://talentrecap.com/it-was-time-for-katy-perry-to-quit-american-idol/" aria-label="It Was Time for Katy Perry to Quit &#8216;American Idol&#8217;" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
+                    <a href="https://talentrecap.com/it-was-time-for-katy-perry-to-quit-american-idol/" aria-label="It Was Time for Katy Perry to Quit ‘American Idol’" class="group-[.inactive]/card:opacity-75 transition-opacity duration-500">
                   <div      class=" aspect-[430/285]">
-              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2024/05/Original_AmericanIdol_KatyPerry_Live_Disney_Eric-McCandless-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Katy Perry on &#039;American Idol&#039; Top 12" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2024/05/Original_AmericanIdol_KatyPerry_Live_Disney_Eric-McCandless-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2024/05/Original_AmericanIdol_KatyPerry_Live_Disney_Eric-McCandless-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
+              <img width="300" height="300" src="https://cdn.talentrecap.com/wp-content/uploads/2024/05/Original_AmericanIdol_KatyPerry_Live_Disney_Eric-McCandless-300x300.jpg" class=" w-full h-full object-cover rounded-lg" alt="Katy Perry on 'American Idol' Top 12" decoding="async" srcset="https://cdn.talentrecap.com/wp-content/uploads/2024/05/Original_AmericanIdol_KatyPerry_Live_Disney_Eric-McCandless-300x300.jpg 300w, https://cdn.talentrecap.com/wp-content/uploads/2024/05/Original_AmericanIdol_KatyPerry_Live_Disney_Eric-McCandless-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />          </div>
             </a>
         </div>
         <div class="flex flex-col gap-2.5 w-full max-w-[650px] 5xl:max-w-[750px]">
           <a href="https://talentrecap.com/it-was-time-for-katy-perry-to-quit-american-idol/" class="hover:text-pink transition-colors duration-500">
-            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">It Was Time for Katy Perry to Quit &#8216;American Idol&#8217;</h2>
+            <h2 class="text-lg 2xl:text-xl 5xl:text-2xl !leading-[1.1] font-extrabold font-heading uppercase -tracking-wide" itemprop="name headline">It Was Time for Katy Perry to Quit ‘American Idol’</h2>
           </a>
-          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.03.2026</time> &nbsp;|&nbsp; 3 min read</p>
+          <p class="text-2xs md:text-sm 5xl:text-base text-grey-mid"><time itemprop="datePublished">07.03.2026</time>  |  3 min read</p>
                             </div>
       </div>
     </div>
@@ -1395,7 +1395,7 @@ var gdpr_c=document.cookie.match(/(?:^|;\s*)moove_gdpr_popup=([^;]*)/);var gdpr_
 <script type="module">
 /* <![CDATA[ */
 /*! This file is auto-generated */
-const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&amp;&amp;!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&amp;&amp;self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&amp;&amp;"number"==typeof e.timestamp&amp;&amp;(new Date).valueOf()<e.timestamp+604800&amp;&amp;"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&amp;&amp;"undefined"!=typeof OffscreenCanvas&amp;&amp;"undefined"!=typeof URL&amp;&amp;URL.createObjectURL&amp;&amp;"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&amp;&amp;a.supports[n],"flag"!==n&amp;&amp;(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&amp;&amp;a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&amp;&amp;!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&amp;&amp;t.twemoji&amp;&amp;(r(t.twemoji),r(t.wpemoji)))});
 //# sourceURL=https://talentrecap.com/wp-includes/js/wp-emoji-loader.min.js
 /* ]]> */
 </script>
@@ -1437,7 +1437,7 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 		</ul>
 		
 <div class="moove-gdpr-branding-cnt">
-			<a href="https://wordpress.org/plugins/gdpr-cookie-compliance/" rel="noopener noreferrer" target="_blank" class='moove-gdpr-branding'>Powered by&nbsp; <span>GDPR Cookie Compliance</span></a>
+			<a href="https://wordpress.org/plugins/gdpr-cookie-compliance/" rel="noopener noreferrer" target="_blank" class='moove-gdpr-branding'>Powered by  <span>GDPR Cookie Compliance</span></a>
 		</div>
 <!--  .moove-gdpr-branding -->
 		</div>
@@ -1524,4 +1524,4 @@ Retrieved 4350 objects (3 MB) from Redis using PhpRedis (v6.3.0).
 -->
 
 
-<!-- Page cached by LiteSpeed Cache 7.8.1 on 2026-07-28 19:51:20 -->
+<!-- Page cached by LiteSpeed Cache 7.8.1 on 2026-07-28 19:56:44 -->
