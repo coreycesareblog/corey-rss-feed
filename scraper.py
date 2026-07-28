@@ -17,24 +17,39 @@ def get_articles():
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    print("PAGE TITLE:")
-    print(soup.title)
+    articles = []
 
-    print("\nFIRST 20 LINKS FOUND:")
-    count = 0
+    # Find article containers
+    for article in soup.find_all("article"):
+        title = None
+        link = None
 
-    for link in soup.find_all("a", href=True):
-        title = link.get_text(strip=True)
-        url = link["href"]
+        heading = article.find(["h1", "h2", "h3"])
 
-        if title:
-            print(title, "→", url)
-            count += 1
+        if heading:
+            title = heading.get_text(strip=True)
 
-        if count >= 20:
-            break
+            link_tag = heading.find("a")
 
-    return []
+            if link_tag:
+                link = link_tag.get("href")
+
+        if title and link:
+            articles.append(
+                {
+                    "title": title,
+                    "link": link,
+                    "description": f"Article by Corey Cesare: {title}",
+                    "date": ""
+                }
+            )
+
+    print(f"Found {len(articles)} articles")
+
+    for article in articles:
+        print(article["title"])
+
+    return articles
 
 
 if __name__ == "__main__":
