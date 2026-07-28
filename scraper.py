@@ -1,45 +1,32 @@
 import requests
-from bs4 import BeautifulSoup
 
 
-AUTHOR_URL = "https://talentrecap.com/author/corey-cesare/"
+SEARCH_URL = "https://talentrecap.com/wp-json/wp/v2/search"
 
 
 def get_articles():
     response = requests.get(
-        AUTHOR_URL,
-        headers={
-            "User-Agent": "Mozilla/5.0"
+        SEARCH_URL,
+        params={
+            "search": "Corey Cesare",
+            "per_page": 10
         }
     )
 
     response.raise_for_status()
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    posts = response.json()
 
     articles = []
 
-    # Find article containers
-    for article in soup.find_all("article"):
-        title = None
-        link = None
+    for post in posts:
+        if post.get("subtype") == "post":
 
-        heading = article.find(["h1", "h2", "h3"])
-
-        if heading:
-            title = heading.get_text(strip=True)
-
-            link_tag = heading.find("a")
-
-            if link_tag:
-                link = link_tag.get("href")
-
-        if title and link:
             articles.append(
                 {
-                    "title": title,
-                    "link": link,
-                    "description": f"Article by Corey Cesare: {title}",
+                    "title": post["title"],
+                    "link": post["url"],
+                    "description": f"Article by Corey Cesare: {post['title']}",
                     "date": ""
                 }
             )
