@@ -1,21 +1,19 @@
-from scraper import get_articles
-from generate_feed import create_feed
-from datetime import datetime, timezone
+import requests
+
+SOURCE_FEED = "https://talentrecap.com/author/corey-cesare/feed/"
+OUTPUT_FILE = "feed.xml"
 
 
-def format_date(article):
-    # Placeholder date for now; we'll improve this once we confirm
-    # Talent Recap exposes dates cleanly.
-    return datetime.now(timezone.utc).strftime(
-        "%a, %d %b %Y %H:%M:%S GMT"
-    )
+response = requests.get(
+    SOURCE_FEED,
+    headers={
+        "User-Agent": "Mozilla/5.0"
+    }
+)
 
+response.raise_for_status()
 
-articles = get_articles()
+with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
+    file.write(response.text)
 
-for article in articles:
-    article["date"] = format_date(article)
-
-create_feed(articles)
-
-print(f"Generated feed with {len(articles)} articles.")
+print("RSS feed copied successfully!")
