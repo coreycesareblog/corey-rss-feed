@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Corey Cesare - Articles</title>
+    <link>https://talentrecap.com/author/corey-cesare/</link>
+    <description>Latest articles by Corey Cesare</description>
+    <language>en-us</language>
+    
+    <item>
+        <title>RSS Feed Setup in Progress</title>
+        <link>https://talentrecap.com/author/corey-cesare/</link>
+        <description>Your automated article feed is being built!</description>
+    </item>
+
+</channel>
+</rss>
