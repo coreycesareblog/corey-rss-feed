@@ -1,8 +1,8 @@
 from scraper import get_articles
-from generate_feed import generate_feed
+from generate_feed import create_feed
 
 articles = get_articles()
 
-generate_feed(articles)
+create_feed(articles)
 
 print(f"Generated feed with {len(articles)} articles")
