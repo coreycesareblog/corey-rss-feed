@@ -42,6 +42,7 @@ def create_feed(articles):
         "lastBuildDate"
     ).text = formatdate(datetime.now().timestamp(), usegmt=True)
 
+
     for article in articles:
         item = ET.SubElement(channel, "item")
 
@@ -60,31 +61,51 @@ def create_feed(articles):
             "guid"
         ).text = article.get("link", "")
 
-        # Add featured image for RSS readers like Feedzy
-        if article.get("image"):
-            ET.SubElement(
-                item,
-                "{http://search.yahoo.com/mrss/}content",
-                {
-                    "url": article["image"],
-                    "medium": "image"
-                }
-            )
 
         description = article.get(
             "excerpt",
             "Read the full article on Talent Recap."
         )
 
+
+        # Add featured image for Feedzy and RSS readers
+        if article.get("image"):
+            image_url = article["image"]
+
+            ET.SubElement(
+                item,
+                "{http://search.yahoo.com/mrss/}content",
+                {
+                    "url": image_url,
+                    "medium": "image"
+                }
+            )
+
+            ET.SubElement(
+                item,
+                "{http://search.yahoo.com/mrss/}thumbnail",
+                {
+                    "url": image_url
+                }
+            )
+
+            description = (
+                f'<img src="{image_url}" />'
+                + description
+            )
+
+
         ET.SubElement(
             item,
             "description"
         ).text = escape(description)
 
+
         ET.SubElement(
             item,
             "pubDate"
         ).text = format_rss_date(article.get("date", ""))
+
 
     tree = ET.ElementTree(rss)
 
