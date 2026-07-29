@@ -20,7 +20,8 @@ def format_rss_date(date_string):
 def create_feed(articles):
     rss = ET.Element("rss", {
         "version": "2.0",
-        "xmlns:atom": "http://www.w3.org/2005/Atom"
+        "xmlns:atom": "http://www.w3.org/2005/Atom",
+        "xmlns:media": "http://search.yahoo.com/mrss/"
     })
 
     channel = ET.SubElement(rss, "channel")
@@ -44,14 +45,31 @@ def create_feed(articles):
     for article in articles:
         item = ET.SubElement(channel, "item")
 
-        ET.SubElement(item, "title").text = article.get("title", "Untitled")
+        ET.SubElement(
+            item,
+            "title"
+        ).text = article.get("title", "Untitled")
 
-        ET.SubElement(item, "link").text = article.get("link", "")
+        ET.SubElement(
+            item,
+            "link"
+        ).text = article.get("link", "")
 
         ET.SubElement(
             item,
             "guid"
         ).text = article.get("link", "")
+
+        # Add featured image for RSS readers like Feedzy
+        if article.get("image"):
+            ET.SubElement(
+                item,
+                "{http://search.yahoo.com/mrss/}content",
+                {
+                    "url": article["image"],
+                    "medium": "image"
+                }
+            )
 
         description = article.get(
             "excerpt",
