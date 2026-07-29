@@ -9,8 +9,7 @@ def get_articles():
     response = requests.get(
         POSTS_URL,
         params={
-            "author": 55,
-            "per_page": 10,
+            "per_page": 100,
             "orderby": "date",
             "order": "desc"
         }
@@ -23,18 +22,17 @@ def get_articles():
     articles = []
 
     for post in posts:
-        articles.append(
-            {
-                "title": unescape(post["title"]["rendered"]),
-                "link": post["link"],
-                "description": unescape(
-                    post["excerpt"]["rendered"]
-                ),
-                "date": post["date"]
-            }
-        )
+        if post.get("author") == 55:
+            articles.append(
+                {
+                    "title": unescape(post["title"]["rendered"]),
+                    "link": post["link"],
+                    "description": unescape(post["excerpt"]["rendered"]),
+                    "date": post["date"]
+                }
+            )
 
-    print(f"Found {len(articles)} articles")
+    print(f"Found {len(articles)} Corey articles")
 
     for article in articles:
         print(article["title"])
