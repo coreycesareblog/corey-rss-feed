@@ -3,6 +3,23 @@ from html import unescape
 
 
 POSTS_URL = "https://talentrecap.com/wp-json/wp/v2/posts"
+MEDIA_URL = "https://talentrecap.com/wp-json/wp/v2/media"
+
+
+def get_image_url(media_id):
+    if not media_id:
+        return ""
+
+    response = requests.get(
+        f"{MEDIA_URL}/{media_id}"
+    )
+
+    if response.status_code != 200:
+        return ""
+
+    media = response.json()
+
+    return media.get("source_url", "")
 
 
 def get_articles():
@@ -27,8 +44,9 @@ def get_articles():
                 {
                     "title": unescape(post["title"]["rendered"]),
                     "link": post["link"],
-                    "description": unescape(post["excerpt"]["rendered"]),
-                    "date": post["date"]
+                    "excerpt": unescape(post["excerpt"]["rendered"]),
+                    "date": post["date"],
+                    "image": get_image_url(post.get("featured_media"))
                 }
             )
 
