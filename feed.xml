@@ -69,7 +69,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 <link rel='stylesheet' id='wp-block-library-css' href='https://cdn.talentrecap.com/wp-includes/css/dist/block-library/style.min.css?ver=6.9.5' type='text/css' media='all' />
 <style id='wp-block-library-inline-css' type='text/css'>
-/*wp_block_styles_on_demand_placeholder:6a6941bbcf832*/
+/*wp_block_styles_on_demand_placeholder:6a6942fbbfc27*/
 /*# sourceURL=wp-block-library-inline-css */
 </style>
 <style id='classic-theme-styles-inline-css' type='text/css'>
@@ -364,22 +364,22 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
           <div class="flex flex-col gap-3 md:gap-4">
                           <p class="text-white font-heading font-extrabold uppercase -tracking-wide text-lg md:text-xl text-center">More Topics</p>
               <div class="flex flex-nowrap md:flex-wrap md:justify-center gap-2.5 -mx-7 md:-mx-4 px-6 md:px-0 pb-4 md:pb-0 overflow-x-auto md:overflow-visible">
-                                  <a href="https://talentrecap.com/talent/dancing-with-the-stars/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
-                    Dancing With The Stars                  </a>
-                                  <a href="https://talentrecap.com/entertainment/celebrity/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
-                    Celebrity                  </a>
-                                  <a href="https://talentrecap.com/talent/britains-got-talent/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
-                    Britain's Got Talent                  </a>
-                                  <a href="https://talentrecap.com/singing/the-masked-singer/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
-                    The Masked Singer                  </a>
-                                  <a href="https://talentrecap.com/talent/so-you-think-you-can-dance/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
-                    So You Think You Can Dance                  </a>
                                   <a href="https://talentrecap.com/singing/american-idol/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
                     American Idol                  </a>
                                   <a href="https://talentrecap.com/talent/agt/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
                     America's Got Talent                  </a>
                                   <a href="https://talentrecap.com/singing/the-voice/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
                     The Voice                  </a>
+                                  <a href="https://talentrecap.com/talent/dancing-with-the-stars/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
+                    Dancing With The Stars                  </a>
+                                  <a href="https://talentrecap.com/entertainment/celebrity/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
+                    Celebrity                  </a>
+                                  <a href="https://talentrecap.com/talent/so-you-think-you-can-dance/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
+                    So You Think You Can Dance                  </a>
+                                  <a href="https://talentrecap.com/talent/britains-got-talent/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
+                    Britain's Got Talent                  </a>
+                                  <a href="https://talentrecap.com/singing/the-masked-singer/" class="shrink-0 md:shrink inline-block bg-white hover:bg-green text-navy uppercase font-heading-alt font-bold -tracking-wide text-xs md:text-sm !leading-[1] px-2.5 md:px-5 py-1.5 rounded-[4px] transition-colors duration-500">
+                    The Masked Singer                  </a>
                               </div>
                       </div>
         </div>
@@ -1341,7 +1341,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
   </div>
 </div>
 <script type=" text/javascript">
-  var ajax_req_nonce = 'f68e810dc1';
+  var ajax_req_nonce = 'bdf3d083cd';
 </script>
 <script type="speculationrules">
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/talentrecap/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
@@ -1371,14 +1371,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="text/javascript" src="https://cdn.talentrecap.com/wp-content/themes/talentrecap/assets/js/main.js?ver=1.0.8" id="theme-main-js-js"></script>
 <script type="text/javascript" id="ajax-load-more-js-extra">
 /* <![CDATA[ */
-var ajax_load_more_params = {"ajax_url":"https://talentrecap.com/wp-admin/admin-ajax.php","nonce":"affe3a772f","posts_per_page":"10","max_pages":"0","current_page":"1","auto_load_once":"","scroll_threshold":"200"};
+var ajax_load_more_params = {"ajax_url":"https://talentrecap.com/wp-admin/admin-ajax.php","nonce":"36f5caca5c","posts_per_page":"10","max_pages":"0","current_page":"1","auto_load_once":"","scroll_threshold":"200"};
 //# sourceURL=ajax-load-more-js-extra
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://cdn.talentrecap.com/wp-content/themes/talentrecap/includes/ajax-load-more.js?ver=1.0.0" id="ajax-load-more-js"></script>
 <script type="text/javascript" id="moove_gdpr_frontend-js-extra">
 /* <![CDATA[ */
-var moove_frontend_gdpr_scripts = {"ajaxurl":"https://talentrecap.com/wp-admin/admin-ajax.php","post_id":"247391","plugin_dir":"https://talentrecap.com/wp-content/plugins/gdpr-cookie-compliance","show_icons":"all","is_page":"","ajax_cookie_removal":"false","strict_init":"2","enabled_default":{"strict":1,"third_party":0,"advanced":0,"performance":0,"preference":0},"geo_location":"false","force_reload":"false","is_single":"","hide_save_btn":"false","current_user":"0","cookie_expiration":"365","script_delay":"2000","close_btn_action":"1","close_btn_rdr":"","scripts_defined":"{\"cache\":true,\"header\":\"\",\"body\":\"\",\"footer\":\"\",\"thirdparty\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"strict\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"advanced\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"}}","gdpr_scor":"true","wp_lang":"","wp_consent_api":"false","gdpr_nonce":"a00b5cb9d3"};
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https://talentrecap.com/wp-admin/admin-ajax.php","post_id":"247391","plugin_dir":"https://talentrecap.com/wp-content/plugins/gdpr-cookie-compliance","show_icons":"all","is_page":"","ajax_cookie_removal":"false","strict_init":"2","enabled_default":{"strict":1,"third_party":0,"advanced":0,"performance":0,"preference":0},"geo_location":"false","force_reload":"false","is_single":"","hide_save_btn":"false","current_user":"0","cookie_expiration":"365","script_delay":"2000","close_btn_action":"1","close_btn_rdr":"","scripts_defined":"{\"cache\":true,\"header\":\"\",\"body\":\"\",\"footer\":\"\",\"thirdparty\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"strict\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"advanced\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"}}","gdpr_scor":"true","wp_lang":"","wp_consent_api":"false","gdpr_nonce":"03142b7fcb"};
 //# sourceURL=moove_gdpr_frontend-js-extra
 /* ]]> */
 </script>
@@ -1520,8 +1520,8 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 <!--
 Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
 
-Retrieved 4350 objects (3 MB) from Redis using PhpRedis (v6.3.0).
+Retrieved 4349 objects (3 MB) from Redis using PhpRedis (v6.3.0).
 -->
 
 
-<!-- Page cached by LiteSpeed Cache 7.8.1 on 2026-07-28 19:56:44 -->
+<!-- Page cached by LiteSpeed Cache 7.8.1 on 2026-07-28 20:02:04 -->
