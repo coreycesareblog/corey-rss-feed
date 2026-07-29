@@ -44,19 +44,29 @@ def create_feed(articles):
     for article in articles:
         item = ET.SubElement(channel, "item")
 
-        ET.SubElement(item, "title").text = article["title"]
+        ET.SubElement(item, "title").text = article.get("title", "Untitled")
 
-        ET.SubElement(item, "link").text = article["link"]
+        ET.SubElement(item, "link").text = article.get("link", "")
+
+        ET.SubElement(
+            item,
+            "guid"
+        ).text = article.get("link", "")
+
+        description = article.get(
+            "excerpt",
+            "Read the full article on Talent Recap."
+        )
 
         ET.SubElement(
             item,
             "description"
-        ).text = escape(article.get("excerpt", ""))
+        ).text = escape(description)
 
         ET.SubElement(
             item,
             "pubDate"
-        ).text = format_rss_date(article["date"])
+        ).text = format_rss_date(article.get("date", ""))
 
     tree = ET.ElementTree(rss)
 
