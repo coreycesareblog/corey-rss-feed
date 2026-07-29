@@ -1,9 +1,28 @@
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime
+from email.utils import formatdate
+from html import escape
+
+
+def format_rss_date(date_string):
+    """
+    Converts WordPress ISO dates into RSS-friendly dates.
+    Example:
+    2026-07-23T15:00:00 -> Thu, 23 Jul 2026 15:00:00 GMT
+    """
+    try:
+        dt = datetime.fromisoformat(date_string.replace("Z", "+00:00"))
+        return formatdate(dt.timestamp(), usegmt=True)
+    except Exception:
+        return formatdate(datetime.now().timestamp(), usegmt=True)
 
 
 def create_feed(articles):
-    rss = ET.Element("rss", version="2.0")
+    rss = ET.Element("rss", {
+        "version": "2.0",
+        "xmlns:atom": "http://www.w3.org/2005/Atom"
+    })
+
     channel = ET.SubElement(rss, "channel")
 
     ET.SubElement(channel, "title").text = "Corey Cesare - Articles"
@@ -11,34 +30,44 @@ def create_feed(articles):
     ET.SubElement(channel, "description").text = "Latest articles by Corey Cesare"
     ET.SubElement(channel, "language").text = "en-us"
 
+    ET.SubElement(channel, "atom:link", {
+        "href": "https://coreycesareblog.github.io/corey-rss-feed/feed.xml",
+        "rel": "self",
+        "type": "application/rss+xml"
+    })
+
+    ET.SubElement(
+        channel,
+        "lastBuildDate"
+    ).text = formatdate(datetime.now().timestamp(), usegmt=True)
+
     for article in articles:
         item = ET.SubElement(channel, "item")
 
         ET.SubElement(item, "title").text = article["title"]
+
         ET.SubElement(item, "link").text = article["link"]
-        ET.SubElement(item, "description").text = article.get("description", "")
-        ET.SubElement(item, "pubDate").text = article["date"]
+
+        ET.SubElement(
+            item,
+            "description"
+        ).text = escape(article.get("excerpt", ""))
+
+        ET.SubElement(
+            item,
+            "pubDate"
+        ).text = format_rss_date(article["date"])
 
     tree = ET.ElementTree(rss)
 
-    with open("feed.xml", "wb") as file:
-        tree.write(
-            file,
-            encoding="utf-8",
-            xml_declaration=True
-        )
+    ET.indent(tree, space="  ")
+
+    tree.write(
+        "feed.xml",
+        encoding="UTF-8",
+        xml_declaration=True
+    )
 
 
-if __name__ == "__main__":
-    articles = [
-        {
-            "title": "Corey Cesare Articles",
-            "link": "https://talentrecap.com/author/corey-cesare/",
-            "description": "Latest entertainment journalism by Corey Cesare.",
-            "date": datetime.now(timezone.utc).strftime(
-                "%a, %d %b %Y %H:%M:%S GMT"
-            )
-        }
-    ]
-
-    create_feed(articles)
+# Keep compatibility if runfeed.py imports this name
+generate_feed = create_feed
